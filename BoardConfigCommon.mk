@@ -118,7 +118,7 @@ TARGET_COMPILE_WITH_MSM_KERNEL := true
 BOARD_RAMDISK_USE_LZ4 := true
 
 # Kernel
-TARGET_KERNEL_CONFIG := vendor/xiaomi/sdm660_defconfig
+TARGET_KERNEL_CONFIG := lavender_defconfig
 
 # Enable stats logging in LMKD
 TARGET_LMKD_STATS_LOG := false
